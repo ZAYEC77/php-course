@@ -15,6 +15,15 @@
 
 [git](https://git-scm.com/)
 
+[composer](https://getcomposer.org/)
+
+
+## Links
+
+[PSRs](https://www.php-fig.org/psr/)
+
+[packagist](https://packagist.org)
+
 
 ## Contacts
 
