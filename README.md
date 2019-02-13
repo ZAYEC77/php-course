@@ -4,6 +4,10 @@
 
 [html academy](https://htmlacademy.ru/)
 
+[CSS basics](https://www.youtube.com/watch?v=IsZDtOYUWvk&list=PL026CCEB5125879C2)
+
+[Javascript Jedi](https://www.youtube.com/watch?v=H6G63NKRSi8&list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem)
+
 
 ## Software
 
