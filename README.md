@@ -28,6 +28,10 @@
 
 [packagist](https://packagist.org)
 
+[Laravel](https://laravel.com)
+
+[Laravel RU](https://laravel.ru)
+
 
 ## Contacts
 
